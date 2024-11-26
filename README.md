@@ -31,9 +31,7 @@
 ---
 
 ## 📫 Let's Connect!
-- [LinkedIn](#)  
-- [Email](mailto:#)  
-- [Portfolio Website](#) (if applicable)
+- [LinkedIn](https://www.linkedin.com/in/siddhant-panwar/#)
 
 ---
 
